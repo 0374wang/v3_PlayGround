@@ -21,6 +21,9 @@
   </section>
 </template>
 
+
+
+<!-- 注意路由嵌套的写法和keepalive及动画的展示 -->
 <script setup></script>
 
 <style scoped>
